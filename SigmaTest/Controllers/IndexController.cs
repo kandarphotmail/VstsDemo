@@ -12,6 +12,7 @@ namespace SigmaTest.Controllers
         public ActionResult Index()
         {
             return View();
+            //Test the application
         }
     }
 }
